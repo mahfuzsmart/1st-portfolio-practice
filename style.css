@@ -21,7 +21,7 @@ h4{
     font-size: 25px;
 }
 .top-banner{
-    background-image: url(images/top-banner.png);
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
 .link-button{
